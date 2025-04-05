@@ -20,9 +20,9 @@ And of course,
 
 The website will update when the game updates!
 
-Links :
+Links for FNF :
 
-[Funkin](https://github.com/FunkinCrew/Funkin)
+[GitHub](https://github.com/FunkinCrew/Funkin)
 
 [itch.io](https://ninja-muffin24.itch.io/funkin)
 
