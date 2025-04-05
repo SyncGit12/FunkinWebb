@@ -10,9 +10,9 @@ Honestly shoutout to the Funkin' Crew for making this full-ass game
 
 ## Features
 
-- Chart and Stage editor!
+<!-- Chart and Stage editor!-->
 - Ghost tapping!
-- Not lagging in any moment! (note of the creator: i haven't tested it yet)
+<!-- Not lagging in any moment! (note of the creator: i haven't tested it yet)-->
 
 And of course,
 
